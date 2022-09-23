@@ -1,0 +1,6 @@
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.sln
+*.sw?
